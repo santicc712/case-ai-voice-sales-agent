@@ -1,4 +1,4 @@
-# Callector · "Катя" — AI Voice Sales Agent
+# AI Voice Sales Agent · "Катя"
 
 > **Case study** · Real-time in-browser AI voice sales agent · custom STT→LLM→TTS pipeline over WebSocket · lead dev in a small team
 
